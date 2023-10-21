@@ -4,15 +4,15 @@
 [![Issues][issues-shield]][issues-url]
 [![Contributor Shield][contributor-shield]][contributor-url]
 
-[discourse-shield]:https://img.shields.io/discourse/topics?server=https%3A%2F%2Fdeveloper.sailpoint.com%2Fdiscuss&link=https%3A%2F%2Fdeveloper.sailpoint.com%2Fdiscuss%2Fc%2Fcolab%2Fcolab-rules%2F71
-[discourse-url]:https://developer.sailpoint.com/discuss/c/colab/colab-rules/71
-[issues-shield]:https://img.shields.io/github/issues/sailpoint-oss/colab-rules?label=Issues
-[issues-url]:https://github.com/sailpoint-oss/colab-rules/issues
-[contributor-shield]:https://img.shields.io/github/contributors/sailpoint-oss/colab-rules?label=Contributors
-[contributor-url]:https://github.com/sailpoint-oss/colab-rules/graphs/contributors
+[discourse-shield]:https://img.shields.io/discourse/topics?server=https%3A%2F%2Fdeveloper.sailpoint.com%2Fdiscuss&link=https%3A%2F%2Fdeveloper.sailpoint.com%2Fdiscuss%2Fc%2Fcolab%2Fcolab-reports%2F71
+[discourse-url]:https://developer.sailpoint.com/discuss/r/reports/colab-reports/71
+[issues-shield]:https://img.shields.io/github/issues/sailpoint-oss/colab-reports?label=Issues
+[issues-url]:https://github.com/sailpoint-oss/colab-reports/issues
+[contributor-shield]:https://img.shields.io/github/contributors/sailpoint-oss/colab-reports?label=Contributors
+[contributor-url]:https://github.com/sailpoint-oss/colab-reports/graphs/contributors
 
-# Developer Community CoLab - Rules
-[Explore all Rules in the CoLab »](https://developer.sailpoint.com/discuss/c/colab/colab-rules/71)
+# Developer Community CoLab - Reports
+[Explore all reports in the CoLab »](https://developer.sailpoint.com/discuss/c/colab/colab-reports/71)
 
 [New to the CoLab? Click here »](https://developer.sailpoint.com/discuss/t/about-the-sailpoint-developer-community-colab/11230)
 
